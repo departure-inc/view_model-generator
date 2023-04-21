@@ -1,0 +1,10 @@
+Description:
+    Explain the ViewModel generator
+
+Example:
+    rails generate view_model Thing
+
+    This will create:
+	app/view_models/application_view.rb
+	app/view_models/thing_view.rb
+	spec/view_models/thing_view_spec.rb
